@@ -1,0 +1,76 @@
+Column,Description
+id,Unique listing identifier
+listing_url,URL of the listing
+scrape_id,Identifier of the scrape process
+last_scraped,The date when the listing was last scraped
+source,Origin of the scrape
+name,Name of the Airbnb listing
+description,Description of the listing
+neighborhood_overview,Overview of the neighborhood
+picture_url,URL of the listing's primary picture
+host_id,Unique identifier for the host
+host_url,URL of the host's profile
+host_name,Name of the host
+host_since,Date when the host joined Airbnb
+host_location,Location of the host
+host_about,Additional information about the host
+host_response_time,Average response time of the host
+host_response_rate,Percentage of messages the host responds to
+host_acceptance_rate,Percentage of booking requests accepted by the host
+host_is_superhost,Whether the host is a Superhost (True/False)
+host_thumbnail_url,URL of the host's thumbnail picture
+host_picture_url,URL of the host's full-size picture
+host_neighbourhood,Host's neighborhood
+host_listings_count,Number of listings by the host
+host_total_listings_count,Total number of listings managed by the host
+host_verifications,Verification methods for the host
+host_has_profile_pic,Whether the host has a profile picture (True/False)
+host_identity_verified,Whether the host's identity is verified (True/False)
+neighbourhood,General neighborhood of the listing
+neighbourhood_cleansed,Specific neighborhood of the listing
+neighbourhood_group_cleansed,"Group of neighborhoods, if applicable"
+latitude,Latitude coordinate of the listing
+longitude,Longitude coordinate of the listing
+property_type,"Type of property (e.g., apartment, house)"
+room_type,"Type of room (e.g., entire home, private room)"
+accommodates,Number of people the listing accommodates
+bathrooms,Number of bathrooms
+bathrooms_text,Text description of the bathrooms
+bedrooms,Number of bedrooms
+beds,Number of beds
+amenities,List of amenities offered
+price,Price per night
+minimum_nights,Minimum number of nights required for booking
+maximum_nights,Maximum number of nights allowed for booking
+minimum_minimum_nights,Minimum number of nights across all listings
+maximum_minimum_nights,Maximum number of minimum nights across all listings
+minimum_maximum_nights,Minimum of the maximum number of nights across listings
+maximum_maximum_nights,Maximum of the maximum number of nights across listings
+minimum_nights_avg_ntm,Average minimum nights required
+maximum_nights_avg_ntm,Average maximum nights allowed
+calendar_updated,How often the calendar is updated
+has_availability,Whether the listing is available (True/False)
+availability_30,Availability in the next 30 days
+availability_60,Availability in the next 60 days
+availability_90,Availability in the next 90 days
+availability_365,Availability in the next 365 days
+calendar_last_scraped,Date when the calendar was last scraped
+number_of_reviews,Total number of reviews for the listing
+number_of_reviews_ltm,Number of reviews in the last 12 months
+number_of_reviews_l30d,Number of reviews in the last 30 days
+first_review,Date of the first review
+last_review,Date of the most recent review
+review_scores_rating,Average rating of the listing
+review_scores_accuracy,Accuracy rating score
+review_scores_cleanliness,Cleanliness rating score
+review_scores_checkin,Check-in experience rating score
+review_scores_communication,Communication rating score
+review_scores_location,Location rating score
+review_scores_value,Value for money rating score
+license,License number for the listing
+instant_bookable,Whether the listing can be instantly booked (True/False)
+calculated_host_listings_count,Number of listings the host has
+calculated_host_listings_count_entire_homes,Number of entire homes listed by the host
+calculated_host_listings_count_private_rooms,Number of private rooms listed by the host
+calculated_host_listings_count_shared_rooms,Number of shared rooms listed by the host
+reviews_per_month,Average number of reviews per month
