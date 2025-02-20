@@ -6,7 +6,7 @@ This repository contains .ipynb file of an analysis of the Airbnb California Mar
 Lifu Li, Wenxin Liang, Yu Xu, Dizhao Zhang, Huawan Zhong
 
 # Google Colab Link
-Merge data - 
+Merge data - https://colab.research.google.com/drive/15_O9pQ1DDRU94eIZfmpLAn0kzBoH7TCT#scrollTo=3VM3x9BWXjH  
 Part1 - 
 Part2 - 
 
