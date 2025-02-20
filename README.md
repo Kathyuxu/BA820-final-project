@@ -13,9 +13,9 @@ https://colab.research.google.com/drive/1wLatciW1jFsbPGlgqjY-xrWGSWWuDsvZ?usp=dr
 Part2:
 https://colab.research.google.com/drive/1LJMgdWjX9w6IMkgQjdjtGqrhbOR6OVTD#scrollTo=UlYdaxCCkjsA
 
-Merge data: this notebook is for merging datasets from all 8 cities and finally generalize the California dataset as the raw data.  
-<EDA:Preproccessing:PCA:UMAP:HierarchicalClustering:KMeansClustering>_team9: This notebook served as Part 1 of our project, mainly for EDA, Data Preprocessing, Normalization, Hierarchical Clustering and K-Means Clustering with PCA and UMAP.  
-<UMAP:KPrototypeClustering>_team9.ipynb: This notebook served as Part 2 of our project, which is designed specifically for K-Prototype Clustering with UMAP to enhance computational efficiency. To maintain data consistency, the EDA, Data Preprocessing, and Normalization steps from Part 1 have been retained.
+Merge data: This notebook is for merging datasets from all 8 cities and finally generalize the California dataset as the raw data.  
+**"<EDA:Preproccessing:PCA:UMAP:HierarchicalClustering:KMeansClustering>_team9.ipynb"**: This notebook served as Part 1 of our project, mainly for EDA, Data Preprocessing, Normalization, Hierarchical Clustering and K-Means Clustering with PCA and UMAP.  
+**"<UMAP:KPrototypeClustering>_team9.ipynb"**: This notebook served as Part 2 of our project, which is designed specifically for K-Prototype Clustering with UMAP to enhance computational efficiency. To maintain data consistency, the EDA, Data Preprocessing, and Normalization steps from Part 1 have been retained.
 
 # License
 This project uses the MIT license, people are free to work on the file and contribute. The file is not a finished product, and it would be interesting to see what insights others can identify.
