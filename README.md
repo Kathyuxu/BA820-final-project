@@ -10,9 +10,9 @@ Merge data - https://colab.research.google.com/drive/15_O9pQ1DDRU94eIZfmpLAn0kzB
 Part1 - https://colab.research.google.com/drive/1wLatciW1jFsbPGlgqjY-xrWGSWWuDsvZ?usp=drive_link  
 Part2 - 
 
-Merge data: this notebook is for merging datasets from all 8 cities and finally generalize the California dataset as the raw data. 
-Part1: This notebook is for EDA, Data Preprocessing, Normalization, Hierarchical Clustering and K-Means Clustering with PCA and UMAP. 
-Part2: This note book is for K-Prototype Clustering with UMAP. 
+Merge data: this notebook is for merging datasets from all 8 cities and finally generalize the California dataset as the raw data.  
+Part1: This notebook is for EDA, Data Preprocessing, Normalization, Hierarchical Clustering and K-Means Clustering with PCA and UMAP.  
+Part2: This note book is for K-Prototype Clustering with UMAP.  
 
 # License
 This project uses the MIT license, people are free to work on the file and contribute. The file is not a finished product, and it would be interesting to see what insights others can identify.
