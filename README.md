@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/15_O9pQ1DDRU94eIZfmpLAn0kzBoH7TCT#scroll
 Part1:
 https://colab.research.google.com/drive/1wLatciW1jFsbPGlgqjY-xrWGSWWuDsvZ?usp=drive_link  
 Part2:
-https://colab.research.google.com/drive/1LJMgdWjX9w6IMkgQjdjtGqrhbOR6OVTD#scrollTo=UlYdaxCCkjsA 
+https://colab.research.google.com/drive/1LJMgdWjX9w6IMkgQjdjtGqrhbOR6OVTD#scrollTo=UlYdaxCCkjsA  
 Part3: 
 https://colab.research.google.com/drive/1Tqf8RGKyQcotI09tu3odc3t6YNo7WZIu
 
