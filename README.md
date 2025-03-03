@@ -12,6 +12,8 @@ Part1:
 https://colab.research.google.com/drive/1wLatciW1jFsbPGlgqjY-xrWGSWWuDsvZ?usp=drive_link  
 Part2:
 https://colab.research.google.com/drive/1LJMgdWjX9w6IMkgQjdjtGqrhbOR6OVTD#scrollTo=UlYdaxCCkjsA
+Part3: 
+https://colab.research.google.com/drive/1Tqf8RGKyQcotI09tu3odc3t6YNo7WZIu
 
 Merge data: This notebook is for merging datasets from all 8 cities and finally generalize the California dataset as the raw data.  
 **"<EDA:Preproccessing:PCA:UMAP:HierarchicalClustering:KMeansClustering>_team9.ipynb"**: This notebook served as Part 1 of our project, mainly for EDA, Data Preprocessing, Normalization, Hierarchical Clustering and K-Means Clustering with PCA and UMAP.  
